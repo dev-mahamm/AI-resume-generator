@@ -1,2 +1,4 @@
-# AI-resume-generator
-A tool that creates job-ready resumes &amp; cover letters using OpenAI.
+
+A tool that creates job-ready resumes & cover letters using OpenAI.
+
+Built by Maham Imran – AI Developer.
